@@ -1,0 +1,7 @@
+123;123;123;user
+1;1;1;user
+bisnagas;1;1;admin
+fixe;1;1;user
+6;6;6;user
+admin;admin;admin;admin
+ines;ines;ines;user
